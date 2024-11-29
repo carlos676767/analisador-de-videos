@@ -1,0 +1,25 @@
+node_modules/
+
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Ambiente virtual
+venv/
+env/
+
+# Logs
+*.log
+
+# Sistema operacional
+.DS_Store  # Para MacOS
+Thumbs.db  # Para Windows
+
+# IDEs e editores
+.vscode/
+.idea/
